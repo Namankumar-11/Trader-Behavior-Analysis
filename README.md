@@ -23,7 +23,7 @@ Analyze how market sentiment (Fear/Greed) impacts trader performance, risk-takin
 - 
 # Strategy
 **Controlled Aggression Strategy**
-- Increase participation during strong trends (Extreme Greed)  
+- Increase participation during strong trends (Extrem  e Greed)  
 - Reduce risk during Fear  
 - Focus on high-quality, high-conviction trades
   
